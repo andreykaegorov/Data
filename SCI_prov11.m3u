@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:64,Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:64,Viasat_Explore_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:64,Viasat_History_ad_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:23,index.m3u8
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:20,index.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:23,playlist.m3u8
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:24,mono.m3u8
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:90,master_3360.m3u8?denmstv.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:40,index.m3u8
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:30,playlist.m3u8
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:30,index.m3u8
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
